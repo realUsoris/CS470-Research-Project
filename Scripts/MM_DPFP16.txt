@@ -1,0 +1,10 @@
+[+] GPU Elapsed Time: 0.893485 s Size: 2 N: 5000
+Frobenius norm of the result matrix: 5553231.765380
+[+] GPU Elapsed Time: 7.124494 s Size: 2 N: 10000
+Frobenius norm of the result matrix: 18777766.587473
+[+] GPU Elapsed Time: 24.140779 s Size: 2 N: 15000
+Frobenius norm of the result matrix: 30720000.000000
+[+] GPU Elapsed Time: 56.924232 s Size: 2 N: 20000
+Frobenius norm of the result matrix: 40960000.000000
+[+] GPU Elapsed Time: 111.751572 s Size: 2 N: 25000
+Frobenius norm of the result matrix: 51200000.000000

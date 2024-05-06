@@ -1,0 +1,28 @@
+------------------------------------
+Program: Matrix Vector Mulitplication
+Matrix Size: 10000 x 10000
+Elapsed time in milliseconds (FP16): 4.017152 
+Elapsed time in milliseconds (BF16): 3.838944 
+Elapsed time in milliseconds (FP32): 6.509568 
+Elapsed time in milliseconds (FP64): 12.197376 
+------------------------------------
+Program: Matrix Vector Mulitplication
+Matrix Size: 20000 x 20000
+Elapsed time in milliseconds (FP16): 18.694912 
+Elapsed time in milliseconds (BF16): 18.366465 
+Elapsed time in milliseconds (FP32): 30.826719 
+Elapsed time in milliseconds (FP64): 57.364353 
+------------------------------------
+Program: Matrix Vector Mulitplication
+Matrix Size: 30000 x 30000
+Elapsed time in milliseconds (FP16): 41.647102 
+Elapsed time in milliseconds (BF16): 40.676353 
+Elapsed time in milliseconds (FP32): 69.817245 
+Elapsed time in milliseconds (FP64): 130.316544 
+------------------------------------
+Program: Matrix Vector Mulitplication
+Matrix Size: 40000 x 40000
+Elapsed time in milliseconds (FP16): 102.784096 
+Elapsed time in milliseconds (BF16): 102.114685 
+Elapsed time in milliseconds (FP32): 133.536987 
+Elapsed time in milliseconds (FP64): 239.810303 

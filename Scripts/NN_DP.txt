@@ -1,0 +1,6 @@
+------------------------------------
+Program: Neural Network (no training data)
+Elapsed time in milliseconds (FP16): 3.935040 
+Elapsed time in milliseconds (BF16): 3.946720 
+Elapsed time in milliseconds (FP32): 3.803136 
+Elapsed time in milliseconds (FP64): 10.266624 
